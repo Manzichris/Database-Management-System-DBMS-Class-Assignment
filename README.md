@@ -2,7 +2,7 @@
 STUDENT INFORMATION:
 NAMES: IRAKOZE Manzi Chris
 Student ID:20252sen130
-lecture Name: Ivan.
+lecture Name: Bisengimana Ivan.
 
 
 Assignment:
